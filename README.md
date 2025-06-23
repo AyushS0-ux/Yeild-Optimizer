@@ -73,7 +73,7 @@ The initial version of the Yield Optimizer provides a solid foundation, but ther
 
 The core of the Yield Optimizer is the `YieldOptimizer.sol` contract, which manages user deposits and yield optimization logic. The contract integrates with various lending protocols on Core Chain and automatically allocates funds to maximize returns.
 
-### Core Functions
+### Core Function
 
 1. `deposit(uint256 amount)`: Allows users to deposit tokens into the optimizer
 2. `withdraw(uint256 amount)`: Enables users to withdraw their tokens plus accrued yield
