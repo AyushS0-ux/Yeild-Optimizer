@@ -10,7 +10,7 @@ This project addresses a common DeFi pain point: manually monitoring and moving 
 
 Built on Core Chain, this solution takes advantage of the network's EVM compatibility, lower transaction costs, and growing DeFi ecosystem to provide an efficient yield optimization service.
 
-## Project Vision
+## Projects Vision
 
 Our vision is to create a user-friendly gateway to optimized DeFi yields that removes technical barriers and complexity. We believe that efficient capital allocation shouldn't require constant monitoring or deep technical knowledge.
 
