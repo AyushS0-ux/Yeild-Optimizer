@@ -23,7 +23,7 @@ Through this project, we aim to:
 
 In the long term, we envision this Yield Optimizer becoming a foundational building block for more complex financial products on Core Chain, enabling users to earn optimized yields while maintaining liquidity for other DeFi activities.
 
-## Key Feature
+## Key Features
 
 ### Core Features
 
