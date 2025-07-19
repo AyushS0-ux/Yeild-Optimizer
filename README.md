@@ -25,7 +25,7 @@ In the long term, we envision this Yield Optimizer becoming a foundational build
 
 ## Key Features
 
-### Core Features
+### Core Feature
 
 1. **Automated Yield Routing**: Smart contracts automatically detect and route funds to the highest-yielding protocol in our supported ecosystem.
 
