@@ -2,7 +2,7 @@
 
 A DeFi protocol that automatically maximizes returns by routing funds between different lending protocols on Core Chain.
 
-## Project Descriptions
+## Project Description
 
 The Yield Optimizer is a smart contract system built on Core Chain that helps users maximize their returns on stablecoin deposits. It achieves this by automatically monitoring yield rates across multiple lending protocols and strategically allocating user funds to the highest-yielding option available.
 
